@@ -1,0 +1,32 @@
+{
+  "6102531955": {
+    "id": 6102531955,
+    "username": "alireza01tey",
+    "first_name": "Alireza",
+    "last_name": null,
+    "join_date": "2026-01-28 14:00:22",
+    "status": "free",
+    "download_count": 1,
+    "premium_expiry": null
+  },
+  "5673629084": {
+    "id": 5673629084,
+    "username": "Alireza_Teymouri001",
+    "first_name": "Alireza Teymouri",
+    "last_name": null,
+    "join_date": "2026-01-29 03:50:30",
+    "status": "free",
+    "download_count": 3,
+    "premium_expiry": null
+  },
+  "167607858": {
+    "id": 167607858,
+    "username": "smjavadt",
+    "first_name": "S.M.Javad Taghavi",
+    "last_name": null,
+    "join_date": "2026-01-29 04:09:02",
+    "status": "free",
+    "download_count": 0,
+    "premium_expiry": null
+  }
+}

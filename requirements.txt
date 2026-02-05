@@ -1,0 +1,8 @@
+python-telegram-bot==20.7
+python-telegram-bot==20.7
+python-dotenv==1.0.0
+python-telegram-bot==20.7
+aiofiles==23.2.1  # برای I/O ناهمگام
+ujson==5.8.0  # JSON سریع‌تر
+python-dotenv==1.0.0
+redis==5.0.1 

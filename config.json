@@ -1,0 +1,7 @@
+// config.json
+{
+    "token": "YOUR_BOT_TOKEN_HERE",
+    "pool_size": 10,
+    "drop_pending_updates": true,
+    "allowed_updates": ["message", "callback_query"]
+}
